@@ -4,6 +4,8 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wybxc&layout=compact)](https://github.com/Wybxc/Wybxc)
 
+[![忘忧北萱草's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wybxc&theme=dark&layout=compact)](https://github.com/Wybxc/Wybxc)
+
 <!--
 **Wybxc/Wybxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
