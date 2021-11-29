@@ -2,7 +2,7 @@
 
 [![忘忧北萱草's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wybxc&show_icons=true)](https://github.com/Wybxc/Wybxc)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wybxc&layout=compact)](https://github.com/Wybxc/Wybxc)
+<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wybxc&layout=compact)](https://github.com/Wybxc/Wybxc) -->
 
 [![忘忧北萱草's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wybxc&layout=compact)](https://github.com/Wybxc/Wybxc)
 
