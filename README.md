@@ -1,22 +1,28 @@
-### 公子忘忧兮，树萱草于北堂。
+<div align="center">
 
-[![忘忧北萱草's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wybxc&show_icons=true)](https://github.com/Wybxc/Wybxc)
+## 忘忧·北萱草
+  
+🌟 公子忘忧兮，树萱草于北堂。🌟 
+</div>
 
-<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wybxc&layout=compact)](https://github.com/Wybxc/Wybxc) -->
+<br/>
 
-[![忘忧北萱草's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wybxc&layout=compact)](https://github.com/Wybxc/Wybxc)
+<a href="https://github.com/Wybxc/Wybxc">
+<img align="right" width="450px" src="https://github-readme-stats-3vzz74ut7-wybxc.vercel.app/api?username=Wybxc&show_icons=true" alt="忘忧北萱草's GitHub stats" />
+</a>
 
-<!--
-**Wybxc/Wybxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里是忘忧·北萱草，目前是一名在校学生。
 
-Here are some ideas to get you started:
+常用的编程语言是 Python。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+正在学习 Rust 和 Kotlin。
+
+喜欢甜美的、慵懒的、轻飘飘的东西。
+
+以上。
+
+
+
+<a href="https://github.com/Wybxc/Wybxc">
+<img align="right" width="450px" src="https://github-readme-stats-3vzz74ut7-wybxc.vercel.app/api/wakatime?username=wybxc&layout=compact" alt="忘忧北萱草's wakatime stats"/>
+</a>
