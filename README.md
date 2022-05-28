@@ -24,3 +24,10 @@
 <a href="https://github.com/Wybxc/Wybxc">
 <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=wybxc&layout=compact&langs_count=8" alt="忘忧北萱草's wakatime stats"/>
 </a>
+
+<br /><br /><br /><br /><br />
+
+<details>
+  <summary>点击查看忘忧北萱草大合集</summary>
+  <a href="https://github.com/Wybxc/metrics"><img src="https://github.com/Wybxc/metrics/raw/main/github-metrics.svg" alt="metrics" width="100%" /></a>
+</details>
