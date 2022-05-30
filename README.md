@@ -21,7 +21,7 @@
 正在学习 Rust 和 Kotlin。
 
 <a href="https://github.com/Wybxc/Wybxc">
-<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=wybxc&layout=compact&langs_count=8" alt="忘忧北萱草's wakatime stats"/>
+<img align="right" width="450px" src="https://github-readme-stats-3vzz74ut7-wybxc.vercel.app/api/wakatime?username=wybxc&layout=compact&langs_count=8" alt="忘忧北萱草's wakatime stats"/>
 </a>
 
 喜欢甜美的、慵懒的、轻飘飘的东西。
