@@ -23,7 +23,7 @@
 
 这里是忘忧·北萱草，目前是一名在校学生。
 
-常用的编程语言是 Python。
+常用的编程语言是 Python 和 TypeScript。
 
 <a href="https://github.com/Wybxc/Wybxc">
 <img align="right" width="450px" src="https://github-readme-stats-lilac-ten.vercel.app/api/wakatime?username=wybxc&layout=compact&langs_count=8&custom_title=Most+Used+Languages" alt="忘忧北萱草's wakatime stats"/>
