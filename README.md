@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://github.com/Wybxc/Wybxc">
-<img align="right" width="450px" src="https://github-readme-stats-lilac-ten.vercel.app/api?username=Wybxc&show_icons=true" alt="忘忧北萱草's GitHub stats" />
+<img align="right" width="450px" src="https://github.com/Wybxc/metrics/raw/main/github-stats.svg" alt="忘忧北萱草's GitHub stats" />
 </a>
 
 ### 点击订阅 👉 <a href="https://monthly.wybxc.cc/"><img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9C%80%E7%83%AD-%E5%BF%98%E5%BF%A7%E5%8C%97%E8%90%B1%E8%8D%89%E6%9C%88%E5%88%8A-3f5bd4?style=flat-square&labelColor=d75fa5" height="30px" /></a>
@@ -26,7 +26,7 @@
 常用的编程语言是 Python 和 TypeScript。
 
 <a href="https://github.com/Wybxc/Wybxc">
-<img align="right" width="450px" src="https://github-readme-stats-lilac-ten.vercel.app/api/wakatime?username=wybxc&layout=compact&langs_count=8&custom_title=Most+Used+Languages" alt="忘忧北萱草's wakatime stats"/>
+<img align="right" width="450px" src="https://github.com/Wybxc/metrics/raw/main/wakatime-stats.svg" alt="忘忧北萱草's wakatime stats"/>
 </a>
 
 正在学习 Rust 和 Kotlin。
