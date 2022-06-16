@@ -8,6 +8,7 @@
 [![Love](https://img.shields.io/badge/Love-100%25!-ff69b4)](https://monthly.wybxc.cc)
 ![Stars](https://img.shields.io/github/stars/Wybxc?affiliations=OWNER%2CCOLLABORATOR&label=Stars)
 [![Profile Views](https://komarev.com/ghpvc/?username=Wybxc&color=green)](https://github.com/Wybxc)
+![](https://hit.yhype.me/github/profile?user_id=25005856)
 
 </div>
 
