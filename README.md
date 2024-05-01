@@ -18,23 +18,33 @@
 <img align="right" width="450px" src="https://github.com/Wybxc/metrics/raw/main/merged-stats.svg" alt="忘忧北萱草's GitHub stats" />
 </a>
 
-### 点击订阅 👉 <a href="https://monthly.wybxc.cc/"><img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9C%80%E7%83%AD-%E5%BF%98%E5%BF%A7%E5%8C%97%E8%90%B1%E8%8D%89%E6%9C%88%E5%88%8A-3f5bd4?style=flat-square&labelColor=d75fa5" height="30px" /></a>
+<br />
+
+🏫 I'm an undergrad of **Computer Science** and **Software Engineering** at Peking University.
+
+🌱 I’m currently learning: 
+  - Rust
+  - Haskell
+  - Functional Programming
+  - Program Verification
+
+🌟 My Skills:
+
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
+![](https://img.shields.io/badge/-Rust-9a7b63?style=flat-square&logo=Rust&logoColor=fff)
+![](https://img.shields.io/badge/-C++-ae3a62?style=flat-square&logo=cplusplus&logoColor=fff)
+![](https://img.shields.io/badge/-OCaml-ac5e0a?style=flat-square&logo=OCaml&logoColor=fff)
+![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
+![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
+![](https://img.shields.io/badge/-NumPy-5974c9?style=flat-square&logo=NumPy&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-d6543c?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/-Nix-2496ED?style=flat-square&logo=NixOS&logoColor=fff)
+![](https://img.shields.io/badge/-Neo4j-1c4063?style=flat-square&logo=Neo4j&logoColor=fff)
+![](https://img.shields.io/badge/-Ren'Py-bb6365?style=flat-square&logo=RenPy&logoColor=fff)
+![](https://img.shields.io/badge/-After%20Effects-090159?style=flat-square&logo=adobeaftereffects&logoColor=fff)
 
 <br />
 
-这里是忘忧·北萱草，目前是一名在校学生。
-
-常用的编程语言是 Python 和 TypeScript。
-
-正在学习 Rust 和 Kotlin。
-
-喜欢甜美的、慵懒的、轻飘飘的东西。
-
-以上。
-
-<br />
-
-<details>
-  <summary>查看忘忧北萱草大合集</summary>
-  <a href="https://github.com/Wybxc/metrics"><img src="https://github.com/Wybxc/metrics/raw/main/github-metrics.svg" alt="metrics" width="100%" /></a>
-</details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
