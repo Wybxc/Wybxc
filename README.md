@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/Wybxc/Wybxc">
-  <img align="right" width="350px" src="https://github.com/Wybxc/jstrieb-github-stats/raw/master/generated/overview.svg" alt="忘忧北萱草's GitHub stats" />
+  <img align="right" width="350px" src="https://github.com/Wybxc/github-stats-transparent/raw/output/generated/overview.svg" alt="忘忧北萱草's GitHub stats" />
 </a>
 
 <br />
@@ -29,7 +29,7 @@
   - Program Verification
 
 <a href="https://github.com/Wybxc/Wybxc">
-  <img align="right" width="350px" src="https://github.com/Wybxc/jstrieb-github-stats/raw/master/generated/languages.svg" alt="忘忧北萱草's GitHub stats" />
+  <img align="right" width="350px" src="https://github.com/Wybxc/github-stats-transparent/raw/output/generated/languages.svg" alt="忘忧北萱草's GitHub stats" />
 </a>
 
 🌟 My Skills:
