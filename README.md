@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/Wybxc/Wybxc">
-<img align="right" width="450px" src="https://github.com/Wybxc/metrics/raw/main/merged-stats.svg" alt="忘忧北萱草's GitHub stats" />
+  <img align="right" width="350px" src="https://github.com/Wybxc/jstrieb-github-stats/raw/master/generated/overview.svg" alt="忘忧北萱草's GitHub stats" />
 </a>
 
 <br />
@@ -27,6 +27,10 @@
   - Haskell
   - Functional Programming
   - Program Verification
+
+<a href="https://github.com/Wybxc/Wybxc">
+  <img align="right" width="350px" src="https://github.com/Wybxc/jstrieb-github-stats/raw/master/generated/languages.svg" alt="忘忧北萱草's GitHub stats" />
+</a>
 
 🌟 My Skills:
 
