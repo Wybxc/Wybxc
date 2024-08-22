@@ -51,7 +51,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C981%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,16 +59,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+OCaml                    2 hrs 40 mins       █████████████████████████   98.33 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hol-lite                 2 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -84,5 +88,5 @@ Scala                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2024-08-21 01:14:23 UTC
+ Last Updated on 2024-08-22 01:16:11 UTC
 <!--END_SECTION:waka-->
