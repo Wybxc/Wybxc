@@ -51,7 +51,27 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2021%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+OCaml                    2 hrs 33 mins       █████████████████████░░░░   83.35 % 
+C                        21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+x-star                   3 hrs 4 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      3 hrs 4 mins        █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Rust** 
 
@@ -66,5 +86,5 @@ OCaml                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-11-03 01:35:33 UTC
+ Last Updated on 2024-11-04 01:25:04 UTC
 <!--END_SECTION:waka-->
