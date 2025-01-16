@@ -51,7 +51,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C043%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C045%20hrs%203%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,16 +59,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+OCaml                    54 mins             ████████████████░░░░░░░░░   65.21 % 
+C                        15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Makefile                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+x-star                   1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -84,5 +88,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-01-15 01:21:37 UTC
+ Last Updated on 2025-01-16 01:21:05 UTC
 <!--END_SECTION:waka-->
