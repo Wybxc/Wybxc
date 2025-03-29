@@ -59,17 +59,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-OCaml                    4 mins              ████████████████████████░   97.16 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-x-star                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -85,5 +84,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 2025-03-28 01:36:52 UTC
+ Last Updated on 2025-03-29 01:35:55 UTC
 <!--END_SECTION:waka-->
