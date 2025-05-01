@@ -74,15 +74,15 @@ No Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
+Rust                     36 repos            ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
 TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TeX                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TeX                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 OCaml                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Typst                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
 
 
- Last Updated on 2025-04-30 01:41:26 UTC
+ Last Updated on 2025-05-01 01:49:51 UTC
 <!--END_SECTION:waka-->
