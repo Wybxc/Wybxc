@@ -53,24 +53,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%205%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -84,5 +66,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-05-02 01:41:58 UTC
+ Last Updated on 2025-05-03 01:39:34 UTC
 <!--END_SECTION:waka-->
