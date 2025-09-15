@@ -74,15 +74,15 @@ No Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     43 repos            ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-OCaml                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-C                        5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Typst                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Rust                     43 repos            ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+OCaml                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+C                        5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Typst                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 
 
 
- Last Updated on 2025-09-14 01:40:59 UTC
+ Last Updated on 2025-09-15 01:42:27 UTC
 <!--END_SECTION:waka-->
