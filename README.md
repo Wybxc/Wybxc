@@ -20,13 +20,13 @@
 
 <br />
 
-🏫 I'm an undergrad of **Computer Science** and **Software Engineering** at Peking University.
+🏫 I'm a PhD student of **Computer Science** at Peking University.
 
-🌱 I’m currently learning: 
-  - Rust
-  - Haskell
-  - Functional Programming
-  - Program Verification
+📓 My research interests are:
+- Programming Languages
+- Formal Verification
+- Functional Programming
+- Compilers
 
 <a href="https://github.com/Wybxc/Wybxc">
   <img align="right" width="350px" src="https://github.com/Wybxc/github-stats-transparent/raw/output/generated/languages.svg" alt="忘忧北萱草's GitHub stats" />
