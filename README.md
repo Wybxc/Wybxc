@@ -20,69 +20,30 @@
 
 <br />
 
-🏫 I'm a PhD student of **Computer Science** at Peking University.
+🏫 I am a PhD student at Peking University’s School of **Computer Science**. Visit my [academic homepage](https://academic.wybxc.cc) to find out more about me and my work.
 
 📓 My research interests are:
+- Program Verification
 - Programming Languages
-- Formal Verification
 - Functional Programming
-- Compilers
 
 <a href="https://github.com/Wybxc/Wybxc">
   <img align="right" width="350px" src="https://github.com/Wybxc/github-stats-transparent/raw/output/generated/languages.svg" alt="忘忧北萱草's GitHub stats" />
 </a>
 
+🧑‍💻 As an open-source developer, I see code as a craft. I’m dedicated to writing elegant and maintainable software, using principles from programming language theory as my foundational tools.
+
 🌟 My Skills:
 
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
-![](https://img.shields.io/badge/-Rust-9a7b63?style=flat-square&logo=Rust&logoColor=fff)
-![](https://img.shields.io/badge/-C++-ae3a62?style=flat-square&logo=cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/-OCaml-ac5e0a?style=flat-square&logo=OCaml&logoColor=fff)
-![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
-![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
-![](https://img.shields.io/badge/-NumPy-5974c9?style=flat-square&logo=NumPy&logoColor=fff)
-![](https://img.shields.io/badge/-PyTorch-d6543c?style=flat-square&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-Nix-2496ED?style=flat-square&logo=NixOS&logoColor=fff)
-![](https://img.shields.io/badge/-Neo4j-1c4063?style=flat-square&logo=Neo4j&logoColor=fff)
-![](https://img.shields.io/badge/-Ren'Py-bb6365?style=flat-square&logo=RenPy&logoColor=fff)
-![](https://img.shields.io/badge/-After%20Effects-090159?style=flat-square&logo=adobeaftereffects&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-9a7b63?style=for-the-badge&logo=Rust&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3e74a2?style=for-the-badge&logo=Python&logoColor=fff)
+![OCaml](https://img.shields.io/badge/-OCaml-ac5e0a?style=for-the-badge&logo=OCaml&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-2d98ce?style=for-the-badge&logo=React&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-Flutter-5ABFAD?style=for-the-badge&logo=flutter&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-d6543c?style=for-the-badge&logo=PyTorch&logoColor=fff)
+![Typst](https://img.shields.io/badge/-Typst-4D9BAB?style=for-the-badge&logo=typst&logoColor=fff)
+![Ren'Py](https://img.shields.io/badge/-Ren'Py-bb6365?style=for-the-badge&logo=RenPy&logoColor=fff)
+![After Effects](https://img.shields.io/badge/-After%20Effects-090159?style=for-the-badge&logo=adobeaftereffects&logoColor=fff)
 
 <br />
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%205%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Rust** 
-
-```text
-Rust                     45 repos            ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TeX                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Lean                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-```
-
-
-
-
- Last Updated on 2025-12-26 01:50:43 UTC
-<!--END_SECTION:waka-->
