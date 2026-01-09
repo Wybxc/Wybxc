@@ -20,7 +20,7 @@
 
 <br />
 
-🏫 I am a PhD student at Peking University’s School of **Computer Science**. Visit my [academic homepage](https://academic.wybxc.cc) to find out more about me and my work.
+🏫 I am a PhD student at Peking University’s School of **Computer Science**. Visit my [academic homepage](https://wybxc.github.io) to find out more about me and my work.
 
 📓 My research interests are:
 - Program Verification
